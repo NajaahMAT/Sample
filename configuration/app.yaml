@@ -1,0 +1,12 @@
+##application config
+name: sample
+host: 
+port: 8080
+
+##db config
+db_conn_string: "mongodb+srv://user1:Em0nG0DbA$3co@cluster0.pqnjx.mongodb.net/test1?retryWrites=true&w=majority"	
+db_name: "test1"
+
+#auth
+auth_token: "eyJhbGciOiJIUz76543InR5cCI6IkpXVCJ9.eyRydWUsImV4cCI6MTYyMjgxNDE4OCwidXNlcmlkIjoiNWYxOTYzYmZjNzBiZjRiZjY0YzBmMzc5In0.uxhNjMQH87654345678Um2wAxqhvci3bzWw0oMJuO0"
+secret_key: "secret"
